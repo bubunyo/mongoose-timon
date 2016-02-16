@@ -1,11 +1,11 @@
 {
   "_args": [
     [
-      "mongoose-timon@0.0.1",
+      "mongoose-timon@0.0.2",
       "/home/eit/Documents/projects/javascript/node-express/openshift"
     ]
   ],
-  "_from": "mongoose-timon@0.0.1",
+  "_from": "mongoose-timon@0.0.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/mongoose-timon",
@@ -17,19 +17,19 @@
   "_phantomChildren": {},
   "_requested": {
     "name": "mongoose-timon",
-    "raw": "mongoose-timon@0.0.1",
-    "rawSpec": "0.0.1",
+    "raw": "mongoose-timon@0.0.2",
+    "rawSpec": "0.0.2",
     "scope": null,
-    "spec": "0.0.1",
+    "spec": "0.0.2",
     "type": "version"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.npmjs.org/mongoose-timon/-/mongoose-timon-0.0.1.tgz",
+  "_resolved": "http://registry.npmjs.org/mongoose-timon/-/mongoose-timon-0.0.2.tgz",
   "_shasum": "2aaceb9a935e8b5c14a0f69649c487cbd32d00e5",
   "_shrinkwrap": null,
-  "_spec": "mongoose-timon@0.0.1",
+  "_spec": "mongoose-timon@0.0.2",
   "_where": "/home/eit/Documents/projects/javascript/node-express/openshift",
   "author": "newlix <newlix134@gmail.com>",
   "bugs": {
@@ -48,9 +48,9 @@
   },
   "dist": {
     "shasum": "2aaceb9a935e8b5c14a0f69649c487cbd32d00e5",
-    "tarball": "http://registry.npmjs.org/mongoose-timon/-/mongoose-timon-0.0.1.tgz"
+    "tarball": "http://registry.npmjs.org/mongoose-timon/-/mongoose-timon-0.0.2.tgz"
   },
-  "homepage": "https://github.com/newlix/mongoose-timon",
+  "homepage": "https://github.com/orignmaster/mongoose-timon",
   "keywords": [
     "mongoose"
   ],
@@ -62,9 +62,9 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/newlix/mongoose-timon.git"
+    "url": "git://github.com/orignmaster/mongoose-timon.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
